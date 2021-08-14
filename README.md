@@ -1,6 +1,6 @@
 <h1 align="center">TBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
-![TBomb](https://telegra.ph/file/513ae0817900d3c694ba8.jpg)
+![TBomb]
 ## Note:
 
 **Due misusing of TBomb, several API's died.**  
@@ -51,7 +51,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/QueenArzoo/TBomb.git
+git clone https://github.com/johantermux/man.git
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
@@ -69,7 +69,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/QueenArzoo/TBomb.git
+git clone https://github.com/johantermux/man.git
 cd TBomb
 chmod +x TBomb.sh
 sudo bash TBomb.sh
@@ -89,7 +89,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/QueenArzoo/TBomb.git
+git clone https://github.com/johantermux/man.git
 cd TBomb
 chmod +x TBomb.sh
 
